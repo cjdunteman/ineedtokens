@@ -1,6 +1,7 @@
 html {
   background-image: linear-gradient(to bottom right, #00d7ff, #9f32b2);
-  height: 100%;
+  min-height: 100%;
+  height: fit-content;
   color: white;
   font-family: "Fredoka One", cursive;
 }
